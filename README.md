@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-O EcoBot busca ajudar os usuários a aprender mais sobre:
+O Bot Ambiental busca ajudar os usuários a aprender mais sobre:
 
 - Mudanças climáticas
 - Reciclagem
