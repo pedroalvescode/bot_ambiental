@@ -28,7 +28,8 @@ O EcoBot busca ajudar os usuários a aprender mais sobre:
 - #transporte	Mostra alternativas de transporte mais sustentáveis.
 - #arvore	Explica a importância das árvores para o meio ambiente.
 - #clima	Explica o que são as mudanças climáticas e seus impactos.
-🌎 Como o bot ajuda?
+
+### Como o bot ajuda?
 
 O bot procura transformar informação em ação. Em vez de apenas explicar o problema das mudanças climáticas, ele incentiva o usuário a adotar hábitos mais sustentáveis no dia a dia.
 
