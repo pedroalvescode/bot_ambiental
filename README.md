@@ -1,6 +1,6 @@
 # Bot Ambiental
 
-** Um bot para Discord criado em Python com o objetivo de conscientizar as pessoas sobre as mudanças climáticas e incentivar pequenas atitudes que ajudam a proteger o meio ambiente. **
+**Um bot para Discord criado em Python com o objetivo de conscientizar as pessoas sobre as mudanças climáticas e incentivar pequenas atitudes que ajudam a proteger o meio ambiente.**
 
 ## Objetivo
 
